@@ -3,7 +3,7 @@ import { BuiltinMask } from "./typing";
 export const CN_MASKS: BuiltinMask[] = [
   {
     avatar: "1f5bc-fe0f",
-    name: "以文搜图",
+    name: "以文搜圖",
     context: [
       {
         id: "text-to-pic-0",
@@ -48,7 +48,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f638",
-    name: "文案写手",
+    name: "企劃助手",
     context: [
       {
         id: "writer-0",
@@ -74,7 +74,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f978",
-    name: "机器学习",
+    name: "機器學習",
     context: [
       {
         id: "ml-0",
@@ -126,7 +126,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f469-200d-1f4bc",
-    name: "职业顾问",
+    name: "職業顧問",
     context: [
       {
         id: "cons-0",
@@ -152,7 +152,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f9d1-200d-1f3eb",
-    name: "英专写手",
+    name: "英文撰寫",
     context: [
       {
         id: "trans-0",
@@ -178,7 +178,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f4da",
-    name: "语言检测器",
+    name: "語言檢測",
     context: [
       {
         id: "lang-0",
@@ -230,7 +230,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f4d1",
-    name: "简历写手",
+    name: "履歷幫手",
     context: [
       {
         id: "cv-0",
@@ -262,7 +262,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f469-200d-2695-fe0f",
-    name: "心理医生",
+    name: "心理醫生",
     context: [
       {
         id: "doctor-0",
